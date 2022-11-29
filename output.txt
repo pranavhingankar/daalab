@@ -1,0 +1,3 @@
+Largest Profit Staretegy : 31
+Smallest weight Staretegy : 43
+Largest Profit-to-weight ration Staretegy : 37
