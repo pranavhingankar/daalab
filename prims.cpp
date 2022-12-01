@@ -65,3 +65,7 @@ int main()
     primMST(cost);
     return 0;
 }
+
+/*
+O(V^2)
+*/
