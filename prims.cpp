@@ -67,5 +67,8 @@ int main()
 }
 
 /*
+Time: 
 O(V^2)
+
+Space: O(V)
 */
