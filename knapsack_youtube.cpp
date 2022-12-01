@@ -72,3 +72,7 @@ int main() {
    knapsack(num, weight, profit, capacity);
    return(0);
 }
+
+/*
+Time: O(n^2)
+Space: O(n)
