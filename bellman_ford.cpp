@@ -70,7 +70,11 @@ cin>>graph->edge[i].weight;
 }
 
 /*
+Time: 
 O(v*e)
 
 O((N(N-1)/2))*O(n-1)
+
+Space: 
+O(E)
 */
